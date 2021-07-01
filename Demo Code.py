@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-%Initial code
-%This code try to get the weather information and use it to make a prediction
+#Initial code
+#This code try to get the weather information and use it to make a prediction
 
 ciudad = input("Ingrese la ciudad: ")
 busqueda = "weather in " + ciudad
