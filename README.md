@@ -3,8 +3,8 @@ Farm1UP
 We are a group of IEEE ESPE students from Ecuador and we will develop Farm 1 UP to reach Zero Hunger
 
 Here is:
-- A Python notebook that predicts the weather by a written location
-- An Arduino code for receive data from the LORA sensors (remote temperature and moisture sensors)
-- The Unity file where we simulated an agriculture environment
+1) A Python notebook that predicts the weather by a written location
+2) An Arduino code for receive data from the LORA sensors (remote temperature and moisture sensors)
+3) The Unity file where we simulated an agriculture environment
 
-- Links for our video (Youtube and Drive option)
+4) Links for our video (Youtube and Drive option)
