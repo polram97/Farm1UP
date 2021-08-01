@@ -1,0 +1,6 @@
+
+1. Uncomprese UnityPlayer zip file
+
+2. Open by double clicking CallForCode.exe
+
+3. Quit the app with:  Alt + F4
